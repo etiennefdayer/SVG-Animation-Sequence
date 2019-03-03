@@ -3,4 +3,4 @@
 Using KeyFrames, Animation, etc. 
 
 
-<img src="https://image.flaticon.com/icons/svg/1527/1527509.svg" style="width:25%">
+<img src="https://image.flaticon.com/icons/svg/1527/1527509.svg" style="width=25%">

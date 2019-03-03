@@ -1,5 +1,8 @@
-# SVG-Animation-Sequence
 
-Using KeyFrames, Animation, etc. 
+<html>
+  <h1> # SVG-Animation-Sequence </h1> 
+  <h2> Using KeyFrames, Animation, etc. </h2> <br>
+  <a href="http://tiny.cc/mbgq3y">Click here to view</a>
 
-![alt text](https://dash.readme.io/img/emojis/arrow-right-hook.png)  &nbsp  http://tiny.cc/mbgq3y
+  
+</html>

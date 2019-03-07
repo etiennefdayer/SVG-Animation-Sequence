@@ -1,3 +1,3 @@
  # SVG Animation-Sequence 
 Using KeyFrames, Animation, etc. <br>
-<a href="http://tiny.cc/mbgq3y">Click here to view</a> 
+<a href="https://etiennefdayer.github.io/SVG-Animation-Sequence/">Click here to view</a> 
